@@ -12,11 +12,11 @@ simple and useful applications.
 
 ## 🚀 About Me
 
-- 🎓 3rd Year Computer Science Student
+- 🎓 3rd Year IT Student
 - 💻 Interested in Web Development
 - 🐍 Currently learning Python
 - 🌐 Learning HTML, CSS & JavaScript
-- ⚙️ Working with C# and .NET
+- ⚙️ Working with Python
 - 📚 Interested in Full Stack Development
 - 🚀 Building projects to improve my practical skills
 
