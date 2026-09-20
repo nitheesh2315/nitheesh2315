@@ -1,1 +1,75 @@
-\<p align="center"> \<img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" /> \</ p> \<p align="center"> \<a href=" https://github.com/DeepakAmalWinstarJ"> \<img src=" https://readme-typingsvg.demolab.com? font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there! %20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;FullStack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" /> \</a> \</p> \<p align="center"> \<a href=" https://linkedin.com/in/deepakamalwinstar" target="_blank"> \<img src=" https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-thebadge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> \</a>   \<a href=" instagram.com/techwin.in" target="_blank"> \<img src=" https:// https://img.shields.io/badge/Instagram-FollowDC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" /> \</ a>   \<a href=" https://leetcode.com/deepakamalwinstarj" target="_blank"> \<img src=" https://img.shields.io/ badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" /> \</a>   \<a href="mailto\:deepakamalwinstarj\@gmail.com"> \<img src=" https:// img.shields.io/badge/Email-Contact-DC2626?style=for-thebadge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /> \</a>   \<a href=" https:// drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank"> \<img src=" https://img.shields.io/badge/Resume-Drive-DC2626?style=for-thebadge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" /> \</a>   \<a href=" github.com/DeepakAmalWinstarJ" target="_blank"> \<img src=" https:// https://img.shields.io/badge/GitHubFollow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" /> \</a> \</p> \<p align="center"> \<img src=" https://komarev.com/ghpvc/? username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" /> \</p> \<h2 align="center">🔴 About Me\</h2> \<p align="center"> \<img src=" https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity. +Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" /> \</p> \<p align="center"> \<img src=" https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" /> \</p> 1\<p align="center"> Hey! I'm \<b>Deepak Amal Winstar J\</b>, a passionate \<b>Computer Science Engineering student & developer\</b> based in India.\<br /> I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems. \</p> \<p align="center"> \<img src=" https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111? style=flat-square" alt="Status" />   \<img src=" https://img.shields.io/badge/Degree-B.E._Computer_ScienceDC2626?style=flat-square" alt="Degree" />   \<img src=" https://img.shields.io/badge/FocusFull_Stack_%26_AI-111111?style=flat-square" alt="Focus" /> \</p> \<p align="center"> 💬 \<b>Let's Discuss:\</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.\<br /> ⚡ \<b>Philosophy:\</b> \<i>"I love turning random late-night thoughts into fully deployed production software!"\</i> \</p> \<table width="100%" border="0" align="center"> \<tr> \<td width="50%" align="center" style="padding: 14px;"> \<h4>🔭 Flagship Project\</h4> \<p>\<a href=" https://opencore-mastitis-monitor.vercel.app/" target="_blank">\<b>OpenCore Monitor\</b>\</a>\<br />\<sub>Dairy IoT & Anomaly Detection\</sub>\</p> \</td> \<td width="50%" align="center" style="padding: 14px;"> \<h4>🌱 Active Deep Dives\</h4> \<p>\<b>DSA & Spring Boot\</b>\<br />\<sub>React Ecosystem & System Design\</sub>\</p> \</td> \</tr> \<tr> \<td width="50%" align="center" style="padding: 14px;"> \<h4>📱 Tech Creator\</h4> \<p>\<a href=" https://www.instagram.com/techwin.in/" target="_blank">\<b>@techwin.in\</b>\</a>\<br / >\<sub>Coding Guides & Insights\</sub>\</p> \</td> \<td width="50%" align="center" style="padding: 14px;"> \<h4>🤝 Collaboration\</h4> \<p>\<b>AI, Web & IoT\</b>\<br />\<sub>Open to exciting new projects\</sub>\</p> \</td> \</tr> \</table> \<h2 align="center">🔴 Featured Project Spotlight\</h2> \<table width="100%" border="0" align="center"> \<tr> \<td align="center" style="padding: 22px;"> \<h3>🔬 OpenCore Mastitis Monitor\</h3> \<p>\<i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.\</i>\</p> \<br /> \<p> \<a href=" https://opencore-mastitis-monitor.vercel.app/" target="_blank"> \<img src=" badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-thehttps://img.shields.io/ badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" /> \</a>    \<a href=" github.com/DeepakAmalWinstarJ" target="_blank"> \<img src=" https://img.shields.io/badge/ Source%20Code-💻%20View%20Projects-111111?style=for-thehttps:// badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" /> \</a> \</p> \</td> \</tr> \</table>
+<!-- HEADER -->
+
+<div align="center">
+
+# 👋 Hi, I'm Nitheesh
+
+### 💻 Web Developer | 🐍 Python Learner | ⚙️ C# Developer
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+love+building+Web+Projects+%F0%9F%9A%80;Currently+Learning+Python+%F0%9F%90%8D;Exploring+Full+Stack+Development+%F0%9F%92%BB" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nitheesh2315&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 I'm a **3rd Year Computer Science Student** passionate about technology and software development.
+
+💻 I'm interested in **Web Development, Python, C# and Full Stack Development**.
+
+🌱 Currently improving my skills by building practical projects and learning new technologies.
+
+🧠 I believe in:
+
+> **Learn → Build → Practice → Improve 🚀**
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+HTML & CSS
+    ↓
+JavaScript
+    ↓
+Python
+    ↓
+C# & .NET
+    ↓
+Full Stack Development
