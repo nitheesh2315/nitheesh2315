@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **3rd Year Computer Science Student** passionate about technology and software development.
+🎓 I'm a **3rd Year B.Tech IT Student** passionate about technology and software development.
 
 💻 I'm interested in **Web Development, Python, C# and Full Stack Development**.
 
