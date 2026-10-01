@@ -1,190 +1,160 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:3333ff,100:00e5ff&height=220&section=header&text=NITHEESH&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Nitheesh;Web+Developer+%F0%9F%92%BB;Python+Learner+%F0%9F%90%8D;Building+Ideas+into+Reality+%F0%9F%9A%80;Future+Full+Stack+Developer+%E2%9C%A8" /><br><img src="https://komarev.com/ghpvc/?username=nitheesh-g-9757543a2&label=PROFILE%20VISITORS&color=ff00cc&style=for-the-badge"/></div>---
+<div align="center">"NITHEESH // DIGITAL IDENTITY"
 
-<div align="center">🧬 "NITHEESH.exe"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,30:7B2CFF,65:FF00A8,100:FF6B00&height=180&section=header&text=NITHEESH&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE+%E2%9C%93;DEVELOPER+MODE+ACTIVATED+%E2%9A%A1;CREATING+THE+NEXT+IDEA...+%F0%9F%92%A1;WELCOME+TO+MY+DIGITAL+SPACE+%F0%9F%8C%8C" /><br>"🟢 ONLINE"    "⚡ BUILDING"    "🚀 EVOLVING"
 
-</div>┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  $ whoami                                                    │
-│                                                              │
-│  Nitheesh                                                     │
-│  Web Developer • Student • Builder                            │
-│                                                              │
-│  $ current_status                                             │
-│                                                              │
-│  🟢 Learning      Python + Full Stack                         │
-│  🟢 Building      AI Interview Coach                          │
-│  🟢 Exploring     Modern Web Development                      │
-│  🟢 Improving     Every single day                            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+</div>---
+
+<div align="center">"╔═══[ IDENTITY CARD ]═══╗"
+
+</div>┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   👤 USER             : NITHEESH                            │
+│   💻 CLASS            : WEB DEVELOPER                       │
+│   🧠 CURRENT MODE     : LEARNING + BUILDING                 │
+│   🌐 ENVIRONMENT      : WEB / PYTHON                        │
+│   ⚡ POWER SOURCE     : CURIOSITY                           │
+│   🎯 MISSION         : BECOME FULL-STACK                   │
+│                                                             │
+│   STATUS              : ████████████████████  ONLINE       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 ---
 
-<div align="center">🌌 MY DIGITAL UNIVERSE
+<div align="center">🌈 "THE COLOR OF MY CODE"
 
-<table>
-<tr>
-<td align="center">💻
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,git,github,vscode&theme=light&perline=9"/><br><br>
 
-CODE
+<img src="https://img.shields.io/badge/HTML-FF5722?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD600?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-00B894?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-7E57C2?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-E040FB?style=flat-square&logo=csharp&logoColor=white"/></div>---
 
-HTML • CSS • JS
-Python • C • C#
+🛰️ "LIVE FEED"
 
-</td><td align="center">🧠
+[06:00] ─────────────────────────────── SYSTEM
+          ↓
+     💡 IDEA FOUND
 
-LEARN
+[06:15] ─────────────────────────────── PROCESS
+          ↓
+     🧠 LEARNING
 
-Web Development
-Backend • AI • Tools
+[07:00] ─────────────────────────────── BUILD
+          ↓
+     💻 CODE
 
-</td><td align="center">🚀
+[08:30] ─────────────────────────────── TEST
+          ↓
+     🧪 DEBUG
 
-BUILD
+[09:00] ─────────────────────────────── RESULT
+          ↓
+     🚀 SOMETHING NEW EXISTS
 
-Web Apps
-Creative Projects
-Real-world Ideas
+---
 
-</td>
-</tr>
-</table></div>---
+<div align="center">🧪 "PROJECT LAB"
 
-⚡ "SKILL_MATRIX"
+</div>"01 // AI INTERVIEW COACH" 🤖
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,c,cs,git,github,vscode&perline=9" /><br><br>
+«Turning interview practice into something measurable.»
 
-<img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></div>---
-
-🚀 "PROJECT_LAB"
-
-<table>
-<tr><td width="50%" align="center">🤖 AI INTERVIEW COACH
-
-🎤 Interview Practice
+🎤 Voice
+   ↓
+📝 Transcript
+   ↓
 📊 Speaking Analysis
+   ↓
 🧠 Answer Evaluation
-💼 Career Preparation
+   ↓
+🎯 Improvement
 
-Status: 🟢 Building
+"STATUS :: BUILDING 🟢"
 
-</td><td width="50%" align="center">🧱 MGR BRICKS
+---
 
-🏠 Business Website
-📱 WhatsApp Integration
-🎨 Product Showcase
-✨ Modern UI
+"02 // MGR BRICKS" 🧱
 
-Status: 🟡 Improving
+«A real-world business idea transformed into a digital experience.»
 
-</td></tr><tr><td width="50%" align="center">🌐 WEB EXPERIMENTS
+"🏠 BUSINESS" → "🌐 WEBSITE" → "📱 WHATSAPP" → "✨ BRAND"
 
-⚡ HTML
-🎨 CSS
-🧩 JavaScript
-💡 Creative UI
+"STATUS :: EVOLVING 🟡"
 
-Status: 🟢 Active
+---
 
-</td><td width="50%" align="center">🐍 PYTHON LAB
+"03 // WEB LAB" 🌐
 
-🔹 Python Basics
-🔹 Problem Solving
-🔹 Automation
-🔹 Future AI Projects
+«Small experiments today. Bigger applications tomorrow.»
 
-Status: 🟣 Learning
+"HTML" + "CSS" + "JS" + "IDEAS" = "🚀"
 
-</td></tr>
-</table>---
+---
 
-<div align="center">🧠 CURRENTLY BUILDING
+<div align="center">🧬 "EVOLUTION TREE"
 
-╭──────────────────────────────────────────────╮
-│                                              │
-│       🤖 AI INTERVIEW COACH                  │
-│                                              │
-│   🎤 Record Answer                           │
-│          ↓                                   │
-│   📝 Speech → Text                           │
-│          ↓                                   │
-│   📊 Analyze Speaking                        │
-│          ↓                                   │
-│   🧠 Evaluate Answer                         │
-│          ↓                                   │
-│   🎯 Improve Interview Skills                │
-│                                              │
-╰──────────────────────────────────────────────╯
+                         NITHEESH
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+           FRONTEND                    LOGIC
+              │                           │
+        ┌─────┼─────┐                 🐍 PYTHON
+        │     │     │                    │
+       HTML  CSS    JS                   │
+        │     │     │                    │
+        └─────┴─────┘                    │
+              │                           │
+              └──────────┬────────────────┘
+                         │
+                       BACKEND
+                         │
+                      DATABASE
+                         │
+                         ▼
+                  🚀 FULL STACK
 
 </div>---
 
-🛸 "MY_DEVELOPER_PATH"
+🧠 "CURRENTLY INSIDE MY BRAIN"
 
-<div align="center">🌱 BEGINNER
-
-⬇️
-
-🌐 WEB DEVELOPMENT
-
-⬇️
-
-⚡ JAVASCRIPT
-
-⬇️
-
-🐍 PYTHON
-
-⬇️
-
-🔧 BACKEND
-
-⬇️
-
-🗄️ DATABASE
-
-⬇️
-
-🚀 FULL STACK DEVELOPER
+<div align="center">🧩| SYSTEM
+🐍| Learning Python
+🌐| Improving Web Development
+🤖| Building AI Interview Coach
+🎨| Exploring UI/UX
+🔧| Practicing Real Projects
+🚀| Preparing for Full-Stack
 
 </div>---
 
-📊 "GITHUB_CORE"
+<div align="center">📡 "GITHUB SIGNAL"
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nitheesh-g-9757543a2&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-g-9757543a2&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=ffffff" height="180"/></div>---
+<img src="https://github-readme-stats.vercel.app/api?username=nitheesh-g-9757543a2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00A8&text_color=FFFFFF"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheesh-g-9757543a2&layout=donut&hide_border=true&bg_color=0D1117&title_color=FF00A8&text_color=FFFFFF"/></div>---
 
-<div align="center">🔥 CONTRIBUTION ENERGY
+<div align="center">🌌 "THE NEXT VERSION"
 
-<img src="https://streak-stats.demolab.com?user=nitheesh-g-9757543a2&theme=radical&hide_border=true&background=00000000&ring=ff00cc&fire=00e5ff&currStreakLabel=ffffff"/></div>---
+NITHEESH v1.0
+      │
+      ├── Learn        ✓
+      ├── Experiment   ✓
+      ├── Build        ✓
+      ├── Fail         ✓
+      ├── Improve      ✓
+      │
+      └──────────────► v2.0 LOADING...
 
-🎯 "MY_MINDSET"
+"There is always a better version of the code."
 
-<div align="center">💡 Think
+"And a better version of me." ⚡
 
-🎨 Create
-
-💻 Code
-
-🧪 Experiment
-
-🚀 Build
-
-🔁 Improve
-
-</div>---
-
-<div align="center">🌐 CONNECT
-
-<a href="https://github.com/nitheesh-g-9757543a2">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<br><a href="https://github.com/nitheesh-g-9757543a2">
+<img src="https://img.shields.io/badge/ENTER_MY_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a><a href="https://linkedin.com/in/nitheesh-g-9757543a2">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF00A8"/>
 </a><br><br>
 
-✨ "Code is not just what I write..."
-
-"It's what I create." 🚀
-
-</div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:3333ff,100:ff00cc&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,35:FF00A8,70:7B2CFF,100:00F5FF&height=130&section=footer"/></div>
