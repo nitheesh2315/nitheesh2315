@@ -72,7 +72,7 @@ timeline
     06:15 : PROCESS : 🧠 Learning
     07:00 : BUILD : 💻 Code
     08:30 : TEST : 🧪 Debug
-    09:00 : RESULT : 🚀 Something New Exists
+    09:00 : RESULT : 🚀 Something New EXists
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF00A8,100:FF6B00&height=2&section=header"/>
